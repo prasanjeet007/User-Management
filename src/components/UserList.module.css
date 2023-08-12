@@ -1,0 +1,11 @@
+.cardList {
+  border: 1px solid black;
+}
+.cardList p {
+  border: 1px solid black;
+  width: 80%;
+  margin: 0 auto;
+}
+p {
+  margin: 3px;
+}
